@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "dev": "nodemon server .js",
-    "lint": "eslint server.js lib"
+    "lint": "eslint server.js"
   },
   "keywords": [],
   "author": "",
